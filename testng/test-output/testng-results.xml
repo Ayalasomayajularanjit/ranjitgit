@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58" started-at="2016-05-23T17:09:00Z" finished-at="2016-05-23T17:09:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58" started-at="2016-05-23T17:09:00Z" finished-at="2016-05-23T17:09:00Z">
+      <class name="testngexecution.Testng">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testngexecution.Testng@8bd1b6a]" name="beforeSuite" is-config="true" duration-ms="121" started-at="2016-05-23T22:39:00Z" finished-at="2016-05-23T22:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testngexecution.Testng@8bd1b6a]" name="beforeTest" is-config="true" duration-ms="1" started-at="2016-05-23T22:39:00Z" finished-at="2016-05-23T22:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testngexecution.Testng@8bd1b6a]" name="beforeClass" is-config="true" duration-ms="0" started-at="2016-05-23T22:39:00Z" finished-at="2016-05-23T22:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testngexecution.Testng@8bd1b6a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-05-23T22:39:00Z" finished-at="2016-05-23T22:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:testngexecution.Testng@8bd1b6a]" name="testCase1" duration-ms="13" started-at="2016-05-23T22:39:00Z" finished-at="2016-05-23T22:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testngexecution.Testng@8bd1b6a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-05-23T22:39:00Z" finished-at="2016-05-23T22:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testngexecution.Testng@8bd1b6a]" name="afterClass" is-config="true" duration-ms="2" started-at="2016-05-23T22:39:00Z" finished-at="2016-05-23T22:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testngexecution.Testng@8bd1b6a]" name="afterTest" is-config="true" duration-ms="0" started-at="2016-05-23T22:39:00Z" finished-at="2016-05-23T22:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testngexecution.Testng@8bd1b6a]" name="afterSuite" is-config="true" duration-ms="1" started-at="2016-05-23T22:39:00Z" finished-at="2016-05-23T22:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testngexecution.Testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
