@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="testngexecution.Vehicle">
+      <class name="advancereporting.Extentreports1">
         <methods>
-          <include name="selectvehicle"/>
+          <include name="verifytitle"/>
         </methods>
-      </class> <!-- testngexecution.Vehicle -->
+      </class> <!-- advancereporting.Extentreports1 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

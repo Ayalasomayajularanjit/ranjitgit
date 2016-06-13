@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12950" started-at="2016-05-25T16:19:53Z" finished-at="2016-05-25T16:20:06Z">
+  <suite name="Default suite" duration-ms="326109" started-at="2016-06-13T07:24:49Z" finished-at="2016-06-13T07:30:15Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12950" started-at="2016-05-25T16:19:53Z" finished-at="2016-05-25T16:20:06Z">
-      <class name="testngexecution.Vehicle">
-        <test-method status="PASS" signature="selectvehicle()[pri:0, instance:testngexecution.Vehicle@5c7fa833]" name="selectvehicle" duration-ms="12926" started-at="2016-05-25T21:49:53Z" finished-at="2016-05-25T21:50:06Z">
+    <test name="Default test" duration-ms="326109" started-at="2016-06-13T07:24:49Z" finished-at="2016-06-13T07:30:15Z">
+      <class name="advancereporting.Extentreports1">
+        <test-method status="PASS" signature="verifytitle()[pri:0, instance:advancereporting.Extentreports1@523884b2]" name="verifytitle" duration-ms="326063" started-at="2016-06-13T12:54:49Z" finished-at="2016-06-13T13:00:15Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- selectvehicle -->
-      </class> <!-- testngexecution.Vehicle -->
+        </test-method> <!-- verifytitle -->
+      </class> <!-- advancereporting.Extentreports1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
